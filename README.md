@@ -115,3 +115,7 @@ Limitations:
 - Requires manual setup of Spotify API credentials.
 - Limited track fields (no duration, popularity, album art).
 
+
+Author:
+- Nicasio III O. Sionosa
+- BSCS - 2nd Year, CS26L 3581
