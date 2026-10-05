@@ -71,22 +71,22 @@ How to Use:
 5. Click Save to File to export playlists into a CSV file.
 
 OOP Implementation:
-Track → Represents a music track (encapsulation of id, name, artist).
-TrackRepository → Encapsulates database operations (CRUD).
-SpotifyService → Handles Spotify API integration and playlist organization.
-MusicApp → GUI class for displaying and exporting playlists.
-Database → Manages user authentication table.
-Encapsulation: Each class hides its internal logic (database connection inside TrackRepository).
-Inheritance: MusicApp inherits from QWidget (PyQt6).
-Polymorphism: GUI buttons trigger different methods (load_tracks, save_tracks) depending on user action.
+- Track → Represents a music track (encapsulation of id, name, artist).
+- TrackRepository → Encapsulates database operations (CRUD).
+- SpotifyService → Handles Spotify API integration and playlist organization.
+- MusicApp → GUI class for displaying and exporting playlists.
+- Database → Manages user authentication table.
+- Encapsulation: Each class hides its internal logic (database connection inside TrackRepository).
+- Inheritance: MusicApp inherits from QWidget (PyQt6).
+- Polymorphism: GUI buttons trigger different methods (load_tracks, save_tracks) depending on user action.
 
 Database:
 Tables:
-users → Stores authentication info (id, username, password).
-tracks → Stores Spotify track data (id, name, artist).
+- users → Stores authentication info (id, username, password).
+- tracks → Stores Spotify track data (id, name, artist).
 
 Operations:
-Create: Tables created if not exist.
-Read: Fetch all tracks from database.
-Update: Insert or replace tracks.
-Delete: Not yet implemented.
+- Create: Tables created if not exist.
+- Read: Fetch all tracks from database.
+- Update: Insert or replace tracks.
+- Delete: Not yet implemented.
