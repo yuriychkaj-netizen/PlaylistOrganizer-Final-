@@ -108,4 +108,10 @@ Data in Database
 Data in txt File
 <img width="646" height="264" alt="image_2026-10-05_180713384" src="https://github.com/user-attachments/assets/5bdb168e-1f35-4bde-8396-c5343486dd5f" />
 
+Limitations:
+-Album field not yet implemented (currently only name and artist).
+-User authentication table (users) exists but not connected to GUI.
+-No delete functionality for playlists.
+-Requires manual setup of Spotify API credentials.
+-Limited track fields (no duration, popularity, album art).
 
