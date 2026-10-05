@@ -31,13 +31,13 @@ Technologies Used
   - `pathlib` (file path handling)  
 
 Project Structure:
-Features/
-- │── track.py           - Track class definition
-- │── repository.py      - TrackRepository class for database operations
-- │── service.py         - SpotifyService class for API integration
-- │── view.py            - MusicApp GUI implementation
-- Database.py            - Database class for user authentication table
-- main.py                - Entry point, runs SpotifyService and GUI
+- Features/
+- │── track.py           
+- │── repository.py      
+- │── service.py         
+- │── view.py            
+- Database.py            
+- main.py                
 
 
 - track.py → Defines the `Track` object.  
