@@ -54,12 +54,12 @@ Installation and Setup:
    cd <repo-folder>
    
 2. Install dependencies:
-   pip install spotipy PyQt6
+ -pip install spotipy PyQt6
 
 3. Set up Spotify API credentials:
- Create a Spotify Developer account.
- Register an app and get CLIENT_ID, CLIENT_SECRET, and REDIRECT_URI.
- Replace values in main.py
+ -Create a Spotify Developer account.
+ -Register an app and get CLIENT_ID, CLIENT_SECRET, and REDIRECT_URI.
+ -Replace values in main.py
 
 4. Run it
 
