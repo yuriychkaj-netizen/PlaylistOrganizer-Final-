@@ -93,19 +93,19 @@ Operations:
 
 Sample Screenshots:
 
--Empty Gui
--<img width="614" height="439" alt="image_2026-10-05_180559453" src="https://github.com/user-attachments/assets/9eaa6a06-04f6-473a-8cce-67fb164c62fb" />
+Empty Gui
+<img width="614" height="439" alt="image_2026-10-05_180559453" src="https://github.com/user-attachments/assets/9eaa6a06-04f6-473a-8cce-67fb164c62fb" />
 
--Loaded Data
--<img width="617" height="444" alt="image_2026-10-05_180625577" src="https://github.com/user-attachments/assets/e92b7aeb-c030-49ef-bd77-8b0209c96f6f" />
+Loaded Data
+<img width="617" height="444" alt="image_2026-10-05_180625577" src="https://github.com/user-attachments/assets/e92b7aeb-c030-49ef-bd77-8b0209c96f6f" />
 
--Saved Data
--<img width="619" height="449" alt="image_2026-10-05_180638127" src="https://github.com/user-attachments/assets/7eb1c150-ada7-4790-88f9-5981da78ef9a" />
+Saved Data
+<img width="619" height="449" alt="image_2026-10-05_180638127" src="https://github.com/user-attachments/assets/7eb1c150-ada7-4790-88f9-5981da78ef9a" />
 
--Data in Database
--<img width="821" height="426" alt="image_2026-10-05_180702021" src="https://github.com/user-attachments/assets/04dcd058-2323-41a0-ae0e-9826de985ae9" />
+Data in Database
+<img width="821" height="426" alt="image_2026-10-05_180702021" src="https://github.com/user-attachments/assets/04dcd058-2323-41a0-ae0e-9826de985ae9" />
 
--Data in txt File
--<img width="646" height="264" alt="image_2026-10-05_180713384" src="https://github.com/user-attachments/assets/5bdb168e-1f35-4bde-8396-c5343486dd5f" />
+Data in txt File
+<img width="646" height="264" alt="image_2026-10-05_180713384" src="https://github.com/user-attachments/assets/5bdb168e-1f35-4bde-8396-c5343486dd5f" />
 
 
