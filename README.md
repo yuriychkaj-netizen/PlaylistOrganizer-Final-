@@ -114,6 +114,7 @@ Limitations:
 - No delete functionality for playlists.
 - Requires manual setup of Spotify API credentials.
 - Limited track fields (no duration, popularity, album art).
+- Delete doesn't work right now
 
 
 Author:
